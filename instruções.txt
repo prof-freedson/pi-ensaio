@@ -16,6 +16,6 @@ Para o arquivo index.html:
 
 3) Criem um rodapé, com os contatos da empresa e repetindo as opções da barra de navegação do cabeçalho. Insira os créditos no final do rodapé e criem um link com o repositório do projeto.
 
-Realizem as estilizações no arquivo style.css. Utilizem, se quiserem, o framework TailwindCSS.
+4) Realizem as estilizações no arquivo style.css. Utilizem, se quiserem, o framework TailwindCSS.
 
-4) Fiquem à vontade para criar os conteúdos, estilos, nome da empresa, etc.
+5) Fiquem à vontade para criar os conteúdos, estilos, nome da empresa, etc.
