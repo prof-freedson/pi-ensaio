@@ -8,14 +8,22 @@ Uma empresa de reciclagem de resíduos sólidos precisa de uma página web para 
 Para o arquivo index.html:
 
 1) Criem um cabeçalho contendo uma barra de navegação com as opções: Início, Sobre e Contato;
+- Autores: Inácio, Romulo e Gabriel
 
 2) Criem 3 seções:
     2.1) Objetivos da empresa;
+    - Autores: William e Braz
     2.2) Principais materiais reciclados;
+    - Autores: Yan e Raquel
     2.3) Maiores empresas contratantes.
+    - Autores: Mailson e Raylson
 
 3) Criem um rodapé, com os contatos da empresa e repetindo as opções da barra de navegação do cabeçalho. Insira os créditos no final do rodapé e criem um link com o repositório do projeto.
+- Autores: Helry e Victor
 
 4) Realizem as estilizações no arquivo style.css. Utilizem, se quiserem, o framework TailwindCSS.
+- Thiago e Naygon
 
 5) Fiquem à vontade para criar os conteúdos, estilos, nome da empresa, etc.
+
+6) Tenham como orientação a imagem inserida no repositório.
