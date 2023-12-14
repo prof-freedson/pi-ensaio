@@ -1,0 +1,21 @@
+Programador de Sistemas - SENAC/MA
+Ensaio - Projeto Integrador
+
+Esse é um ensaio para a modelagem do sistema do projeto integrador.
+
+Uma empresa de reciclagem de resíduos sólidos precisa de uma página web para a divulgação dos seus serviços. A página inicial deve conter os seguintes conteúdos solicitados:
+
+Para o arquivo index.html:
+
+1) Criem um cabeçalho contendo uma barra de navegação com as opções: Início, Sobre e Contato;
+
+2) Criem 3 seções:
+    2.1) Objetivos da empresa;
+    2.2) Principais materiais reciclados;
+    2.3) Maiores empresas contratantes.
+
+3) Criem um rodapé, com os contatos da empresa e repetindo as opções da barra de navegação do cabeçalho. Insira os créditos no final do rodapé e criem um link com o repositório do projeto.
+
+Realizem as estilizações no arquivo style.css. Utilizem, se quiserem, o framework TailwindCSS.
+
+4) Fiquem à vontade para criar os conteúdos, estilos, nome da empresa, etc.
